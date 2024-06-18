@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "Gotham Rounded";
+    src: url(../fonts/GothamRounded-Medium.otf);
+}
+
+@font-face {
+    font-family: "Gotham Rounded";
+    src: url(../fonts/GothamRounded-Light.otf);
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: "Gotham Rounded";
+    src: url(../fonts/GothamRounded-Bold.otf);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Gotham Rounded";
+    src: url(../fonts/GothamRounded-Book.otf);
+    font-weight: 300;
+}
